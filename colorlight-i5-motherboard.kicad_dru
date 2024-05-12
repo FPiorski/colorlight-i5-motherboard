@@ -1,0 +1,16 @@
+(version 1)
+(rule "target length and skew"
+      (condition "A.NetClass == 'DV_100R'")
+      (constraint length (min 35mm) (opt 40mm) (max 45mm))
+      (constraint skew (max 0.1mm)))
+(rule "target length and skew"
+      (condition "A.NetClass == 'E1_100R'")
+      (constraint length (min 35mm) (opt 40mm) (max 45mm))
+      (constraint skew (max 0.1mm)))
+(rule "target length and skew"
+      (condition "A.NetClass == 'E2_100R'")
+      (constraint length (min 50mm) (opt 56mm) (max 60mm))
+      (constraint skew (max 0.1mm)))
+(rule "overlap usb"
+      (condition "A.Reference == 'J2' && B.Do_not_Populate")
+      (constraint courtyard_clearance (min -1mm)))

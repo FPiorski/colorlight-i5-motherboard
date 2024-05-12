@@ -1,0 +1,3 @@
+[submodule "lib/fr-kicad"]
+	path = lib/fr-kicad
+	url = https://github.com/Feather-Research/fr-kicad.git
