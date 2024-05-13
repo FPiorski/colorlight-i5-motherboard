@@ -14,3 +14,7 @@
 (rule "overlap usb"
       (condition "A.Reference == 'J2' && B.Do_not_Populate")
       (constraint courtyard_clearance (min -1mm)))
+(rule "shield clearance"
+	(condition "A.NetName == 'Earth'")
+	(constraint clearance (min 0.6mm))
+)
