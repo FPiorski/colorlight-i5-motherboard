@@ -36,3 +36,4 @@ fp-info-cache
 # KiCad 6 backups
 *-backups
 
+out-*/

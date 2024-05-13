@@ -23275,7 +23275,8 @@
 		(descr "Through hole straight pin header, 2x10, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x10 2.54mm double row")
 		(property "Reference" "J10"
-			(at 1.27 2.33 90)
+			(at 1.27 2.33 -90)
+			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "44b84d37-17d9-4bf3-8762-bf87b7ef0a26")
 			(effects
@@ -23777,7 +23778,8 @@
 		(descr "Through hole straight pin header, 2x10, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x10 2.54mm double row")
 		(property "Reference" "J11"
-			(at 1.27 2.33 90)
+			(at 1.27 2.33 -90)
+			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "915f1005-173f-41bf-8a32-764fdfff8f4e")
 			(effects
