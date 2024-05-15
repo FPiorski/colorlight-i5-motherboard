@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "FR-Transformer")(type "KiCad")(uri "${KIPRJMOD}/../../lib/fr-kicad/fp/FR-Transformer.pretty")(options "")(descr ""))
+  (lib (name "FR-Connector_RJ45")(type "KiCad")(uri "${KIPRJMOD}/../../lib/fr-kicad/fp/FR-Connector_RJ45.pretty")(options "")(descr ""))
+  (lib (name "FR-Connector")(type "KiCad")(uri "${KIPRJMOD}/../../lib/fr-kicad/fp/FR-Connector.pretty")(options "")(descr ""))
+  (lib (name "FR-TestPoint")(type "KiCad")(uri "${KIPRJMOD}/../../lib/fr-kicad/fp/FR-TestPoint.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "FR-Transformer")(type "KiCad")(uri "${KIPRJMOD}/../../lib/fr-kicad/sym/FR-Transformer.kicad_sym")(options "")(descr "(FR) Transformer symbols"))
+  (lib (name "FR-Connector")(type "KiCad")(uri "${KIPRJMOD}/../../lib/fr-kicad/sym/FR-Connector.kicad_sym")(options "")(descr "(FR) Connector symbols (Examples: Terminal Block, D-SUB, DIN, USB...)"))
+  (lib (name "FR-Device")(type "KiCad")(uri "${KIPRJMOD}/../../lib/fr-kicad/sym/FR-Device.kicad_sym")(options "")(descr "(FR) Generic symbols for common devices"))
+  (lib (name "FR-Interface_USB")(type "KiCad")(uri "${KIPRJMOD}/../../lib/fr-kicad/sym/FR-Interface_USB.kicad_sym")(options "")(descr "(FR) USB interface symbols"))
+  (lib (name "FR-FPGA_Module")(type "KiCad")(uri "${KIPRJMOD}/../../lib/fr-kicad/sym/FR-FPGA_Module.kicad_sym")(options "")(descr "(FR) FPGA Modules and Breakouts"))
+  (lib (name "FT-TestPoint")(type "KiCad")(uri "${KIPRJMOD}/../../lib/fr-kicad/sym/FT-TestPoint.kicad_sym")(options "")(descr ""))
+)
